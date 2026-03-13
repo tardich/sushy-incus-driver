@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sushy-incus-driver"
-version = "0.1.4"
+version = "0.3.0"
 description = "Out-of-tree Incus backend for sushy-emulator"
 authors = [{ name = "Christian Tardif" }]
 license = { text = "Apache-2.0" }
